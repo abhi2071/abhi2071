@@ -12,6 +12,10 @@ I'm a Front-End Developer and 10th Class Student!!
 
 - 👨🏽‍ Backend API developer
 
+<br>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/755396060142108774.png" alt="Discord" /> </p>
+<br>
+
 [🐦 discord](https://https://discord.com/users/988298669361074218) | [🏡 instagram](https://www.instagram.com/abhiwasinnocent) | [⚡ replit](https://replit.com/abhi2071)
 
 ### Languages & Tools
