@@ -10,6 +10,8 @@ I'm a Front-End Developer and 10th Class Student!!
 
 - ⚡ Fun fact: I love to live in a new way that no one else did
 
+- 👨🏽‍ Backend API developer
+
 [🐦 discord](https://https://discord.com/users/988298669361074218) | [🏡 instagram](https://www.instagram.com/abhiwasinnocent) | [⚡ replit](https://replit.com/abhi2071)
 
 ### Languages & Tools
