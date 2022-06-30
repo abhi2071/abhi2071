@@ -8,11 +8,11 @@ I'm a Front-End Developer and 10th Class Student!!
 
 - 🎈 I’m currently learning JavaScript & HTML
 
-- ⚡ Fun fact: I love to live in a new way that no one else did
+- ⚡ Fun fact: I dont play any mobile Games.
 
 - 👨🏽‍ Backend API developer
 
-[🐦 discord](https://https://discord.com/users/988298669361074218) | [🏡 instagram](https://www.instagram.com/abhiwasinnocent) | [⚡ replit](https://replit.com/abhi2071)
+[🐦 discord](https://discord.com/users/988298669361074218) | [🏡 instagram](https://www.instagram.com/abhiwasinnocent) | [⚡ replit](https://replit.com/abhi2071)
 
 ### Languages & Tools
 
