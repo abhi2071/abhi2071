@@ -12,7 +12,7 @@ I'm a Front-End Developer and 10th Class Student!!
 
 - 👨🏽‍ Backend API developer
 
-[🐦 discord](https://discord.com/users/988298669361074218) | [🏡 instagram](https://www.instagram.com/abhiwasinnocent) | [⚡ replit](https://replit.com/abhi2071)
+[🐦 discord](https://discord.com/users/988298669361074218) | [🏡 instagram](https://www.instagram.com/abhivarun) 
 
 ### Languages & Tools
 
